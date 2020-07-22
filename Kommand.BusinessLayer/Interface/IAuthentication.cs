@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kommand.BusinessLayer
+namespace Kommand.BusinessLayer.Interface
 {
-    public class Class1
+    interface IAuthentication
     {
+        /// login
+        /// logout
     }
 }

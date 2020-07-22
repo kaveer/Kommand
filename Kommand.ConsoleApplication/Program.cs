@@ -14,6 +14,7 @@ namespace Kommand.ConsoleApplication
             while (true)
             {
 
+
                 Console.WriteLine("Coomand:");
                 var s = Console.ReadLine();
                 Console.WriteLine(s);
